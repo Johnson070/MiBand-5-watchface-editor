@@ -1,1 +1,7 @@
+1.0.0.1 (2021-03-09)
 
+First release!
+
+Thank you for downloading the program.
+
+If you find a bug, please write to github or email me at: v.veber@me.com
