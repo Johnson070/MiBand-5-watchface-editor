@@ -1,6 +1,6 @@
-1.0.0.1 (2021-03-09)
+1.0.0.2 (2021-03-10)
 
-First release!
+- Bug fix status simple form
 
 Thank you for downloading the program.
 
