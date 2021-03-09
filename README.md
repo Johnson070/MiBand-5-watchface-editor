@@ -1,4 +1,8 @@
 # MiBand 5 watchface editor
+
+A program to help create watch faces for mi band 5!
+
+### Beware antivirus may deny to run the program, the program has zero viruses.
  
 ## BETA WARNING
 
