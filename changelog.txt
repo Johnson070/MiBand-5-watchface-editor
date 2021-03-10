@@ -1,6 +1,8 @@
-1.0.0.3 (2021-03-10)
+1.0.0.4 (2021-03-10)
 
 - Bug fix images form(Use image removal with care)
+
+- Add open .bin file and decompile
 
 Thank you for downloading the program.
 
