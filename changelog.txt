@@ -1,6 +1,6 @@
-1.0.0.2 (2021-03-10)
+1.0.0.3 (2021-03-10)
 
-- Bug fix status simple form
+- Bug fix images form(Use image removal with care)
 
 Thank you for downloading the program.
 
