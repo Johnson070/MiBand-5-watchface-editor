@@ -1,14 +1,12 @@
-1.0.0.5 (2021-03-12)
+1.0.0.6 (2021-03-13)
 
-- Bug fix images form(Use image removal with care)
+- Bug fixes
 
-- Bug fix steps progress form
+- Add json manual editor(Advanced user) RobCraftStudio for you)
 
-- Fix circle scale form
+- Add culture(Add in github excel file with translations)
 
-- Add delete button in properties forms
-
-- Start work for languages
+- I don't mind)
 
 Thank you for downloading the program.
 
