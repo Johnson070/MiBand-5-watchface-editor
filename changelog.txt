@@ -1,8 +1,14 @@
-1.0.0.4 (2021-03-10)
+1.0.0.5 (2021-03-12)
 
 - Bug fix images form(Use image removal with care)
 
-- Add open .bin file and decompile
+- Bug fix steps progress form
+
+- Fix circle scale form
+
+- Add delete button in properties forms
+
+- Start work for languages
 
 Thank you for downloading the program.
 
