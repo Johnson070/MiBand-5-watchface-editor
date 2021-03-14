@@ -1,13 +1,11 @@
-1.0.0.6 (2021-03-13)
+1.0.0.7 (2021-03-14)
 
 - Bug fixes
 
-- Add json manual editor(Advanced user) RobCraftStudio for you)
+- Bug fix time form, when add minutes tens(ERROR)
 
-- Add culture(Add in github excel file with translations)
-
-- I don't mind)
+- Add download zip file update
 
 Thank you for downloading the program.
 
-If you find a bug, please write to github or email me at: v.veber@me.com
+If you find a bug, please write to github or telegram: @vveber
