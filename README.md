@@ -6,9 +6,9 @@
 
 ### [4PDA](https://4pda.ru/forum/index.php?showtopic=1019687)
 
-## [Download culture file(send me in Telegram or Reddit)](https://github.com/Johnson070/MiBand-5-watchface-editor/blob/main/Culture.xlsx?raw=true)
+### Culture file at this moment not support(fix in update, sorry)
 
-![alt text](https://raw.githubusercontent.com/Johnson070/MiBand-5-watchface-editor/main/Preview.png)
+![alt text](https://raw.githubusercontent.com/Johnson070/MiBand-5-watchface-editor/main/PreviewNew.png)
 
 A program to help create watch faces for mi band 5!
 
