@@ -1,10 +1,12 @@
-1.0.0.7 (2021-03-14)
+1.0.0.8 (2021-03-16)
 
 - Bug fixes
 
-- Bug fix time form, when add minutes tens(ERROR)
+- Bug fix alignment in number form
 
-- Add download zip file update
+- Add animation preview(use carefully, the program uses more than 100 MB of RAM)
+
+- (Issue) If you have a problem with the image, try changing the scale of windows to 100%
 
 Thank you for downloading the program.
 
