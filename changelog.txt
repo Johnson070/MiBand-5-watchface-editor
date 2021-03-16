@@ -1,5 +1,7 @@
 1.0.0.8 (2021-03-16)
 
+(Dont working preview - download fix from github)
+
 - Bug fixes
 
 - Bug fix alignment in number form
