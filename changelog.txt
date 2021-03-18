@@ -1,12 +1,10 @@
-1.0.0.8 (2021-03-16)
-
-(Dont working preview - download fix from github)
+1.0.0.9 (2021-03-19)
 
 - Bug fixes
 
-- Bug fix alignment in number form
+- Bug fix add images separate temperature
 
-- Add animation preview(use carefully, the program uses more than 100 MB of RAM)
+- Animation preview(use carefully, the program uses more than 100 MB of RAM)
 
 - (Issue) If you have a problem with the image, try changing the scale of windows to 100%
 
