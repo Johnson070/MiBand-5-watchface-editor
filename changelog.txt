@@ -1,12 +1,12 @@
-1.0.0.9 (2021-03-19)
+1.0.1.0 (2021-03-20)
 
 - Bug fixes
 
-- Bug fix add images separate temperature
+- Add convert GIF to PNG frames
 
 - Animation preview(use carefully, the program uses more than 100 MB of RAM)
 
-- (Issue) If you have a problem with the image, try changing the scale of windows to 100%
+- (Maybe solved) If you have a problem with the image, try changing the scale of windows to 100%
 
 Thank you for downloading the program.
 
