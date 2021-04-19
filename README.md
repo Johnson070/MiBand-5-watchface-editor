@@ -1,4 +1,4 @@
-# MiBand 5 watchface editor
+# MiBand 5 & 6 watchface editor
 
 ## [Download](https://github.com/Johnson070/MiBand-5-watchface-editor/releases/)
 
