@@ -6,6 +6,8 @@
 
 ### [4PDA](https://4pda.ru/forum/index.php?showtopic=1019687)
 
+### [Telegram chat](https://t.me/joinchat/v8PydY773eE5NGEy)
+
 ### Culture file at this moment not support(fix in update, sorry)
 
 ![alt text](https://raw.githubusercontent.com/Johnson070/MiBand-5-watchface-editor/main/PreviewNew.png)
