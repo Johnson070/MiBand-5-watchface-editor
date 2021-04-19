@@ -2,7 +2,7 @@
 
 - Bug fixes
 
-- Add support MiBand 5(Without building a bin file yet)
+- Add support MiBand 6(Without building a bin file yet)
 
 - Add simple select images(Hold down the left mouse button to select, and to delete with shift)
 
