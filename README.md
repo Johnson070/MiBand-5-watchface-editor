@@ -10,7 +10,7 @@
 
 ### Culture file at this moment not support(fix in update, sorry)
 
-![alt text](https://raw.githubusercontent.com/Johnson070/MiBand-5-watchface-editor/main/PreviewNew.png)
+![alt text](https://raw.githubusercontent.com/Johnson070/MiBand-5-watchface-editor/main/Preview.png)
 
 A program to help create watch faces for mi band 5!
 
