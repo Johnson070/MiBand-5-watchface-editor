@@ -1,0 +1,255 @@
+{
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    },
+    "Preview1": {
+      "X": 21,
+      "Y": 30,
+      "ImageIndex": 2
+    },
+    "Preview2": {
+      "X": 21,
+      "Y": 30,
+      "ImageIndex": 3
+    },
+    "Preview3": {
+      "X": 21,
+      "Y": 30,
+      "ImageIndex": 1
+    }
+  },
+  "Time": {
+    "Hours": {
+      "Tens": {
+        "X": 55,
+        "Y": 88,
+        "ImageIndex": 4,
+        "ImagesCount": 10
+      },
+      "Ones": {
+        "X": 103,
+        "Y": 88,
+        "ImageIndex": 4,
+        "ImagesCount": 10
+      }
+    },
+    "Minutes": {
+      "Tens": {
+        "X": 55,
+        "Y": 194,
+        "ImageIndex": 4,
+        "ImagesCount": 10
+      },
+      "Ones": {
+        "X": 103,
+        "Y": 194,
+        "ImageIndex": 4,
+        "ImagesCount": 10
+      }
+    },
+    "UnknownV11": 0
+  },
+  "Activity": {
+    "Steps": {
+      "Number": {
+        "TopLeftX": 0,
+        "TopLeftY": 403,
+        "BottomRightX": 76,
+        "BottomRightY": 423,
+        "Alignment": "TopCenter",
+        "SpacingX": 0,
+        "SpacingY": 0,
+        "ImageIndex": 14,
+        "ImagesCount": 10
+      }
+    },
+    "Pulse": {
+      "Number": {
+        "TopLeftX": 77,
+        "TopLeftY": 403,
+        "BottomRightX": 151,
+        "BottomRightY": 423,
+        "Alignment": "Center",
+        "SpacingX": 0,
+        "SpacingY": 0,
+        "ImageIndex": 14,
+        "ImagesCount": 10
+      },
+      "NoDataImageIndex": 50,
+      "SuffixImageIndex": 51
+    },
+    "UnknownV7": 0
+  },
+  "Date": {
+    "MonthAndDayAndYear": {
+      "OneLine": {
+        "NumberCN": {
+          "TopLeftX": 9,
+          "TopLeftY": 274,
+          "BottomRightX": 55,
+          "BottomRightY": 294,
+          "Alignment": "TopLeft",
+          "SpacingX": 0,
+          "SpacingY": 0,
+          "ImageIndex": 14,
+          "ImagesCount": 10
+        },
+        "DelimiterImageIndex": 24
+      },
+      "TwoDigitsMonth": true,
+      "TwoDigitsDay": true
+    },
+    "DayAmPm": {
+      "X": 9,
+      "Y": 219,
+      "ImageIndexAMCN": 46,
+      "ImageIndexPMCN": 47,
+      "ImageIndexAMEN": 48,
+      "ImageIndexPMEN": 49
+    },
+    "ENWeekDays": {
+      "X": 9,
+      "Y": 246,
+      "ImageIndex": 25,
+      "ImagesCount": 7
+    },
+    "CNWeekDays": {
+      "X": 9,
+      "Y": 246,
+      "ImageIndex": 39,
+      "ImagesCount": 7
+    },
+    "CN2WeekDays": {
+      "X": 9,
+      "Y": 246,
+      "ImageIndex": 32,
+      "ImagesCount": 7
+    }
+  },
+  "StepsProgress": {
+    "Linear": {
+      "StartImageIndex": 52,
+      "Segments": [
+        {
+          "X": 9,
+          "Y": 377
+        },
+        {
+          "X": 5,
+          "Y": 367
+        },
+        {
+          "X": 4,
+          "Y": 357
+        },
+        {
+          "X": 8,
+          "Y": 347
+        },
+        {
+          "X": 17,
+          "Y": 337
+        },
+        {
+          "X": 37,
+          "Y": 337
+        },
+        {
+          "X": 47,
+          "Y": 347
+        },
+        {
+          "X": 52,
+          "Y": 357
+        },
+        {
+          "X": 51,
+          "Y": 367
+        },
+        {
+          "X": 47,
+          "Y": 377
+        }
+      ]
+    }
+  },
+  "Status": {
+    "DoNotDisturb": {
+      "Coordinates": {
+        "X": 90,
+        "Y": 64
+      },
+      "ImageIndexOn": 63
+    },
+    "Lock": {
+      "Coordinates": {
+        "X": 110,
+        "Y": 64
+      },
+      "ImageIndexOff": 64
+    },
+    "Bluetooth": {
+      "Coordinates": {
+        "X": 128,
+        "Y": 64
+      },
+      "ImageIndexOff": 62
+    }
+  },
+  "Battery": {
+    "BatteryText": {
+      "Coordinates": {
+        "TopLeftX": 69,
+        "TopLeftY": 27,
+        "BottomRightX": 151,
+        "BottomRightY": 41,
+        "Alignment": "TopLeft",
+        "SpacingX": 0,
+        "SpacingY": 0,
+        "ImageIndex": 71,
+        "ImagesCount": 10
+      },
+      "SuffixImageIndex": 81
+    },
+    "BatteryIcon": {
+      "X": 12,
+      "Y": 6,
+      "ImageIndex": 82,
+      "ImagesCount": 11
+    }
+  },
+  "HeartProgress": {
+    "Linear": {
+      "StartImageIndex": 65,
+      "Segments": [
+        {
+          "X": 87,
+          "Y": 372
+        },
+        {
+          "X": 86,
+          "Y": 355
+        },
+        {
+          "X": 86,
+          "Y": 338
+        },
+        {
+          "X": 114,
+          "Y": 338
+        },
+        {
+          "X": 115,
+          "Y": 355
+        },
+        {
+          "X": 115,
+          "Y": 372
+        }
+      ]
+    }
+  }
+}

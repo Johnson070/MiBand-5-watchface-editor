@@ -1,0 +1,139 @@
+{
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    },
+    "Preview1": {
+      "X": 21,
+      "Y": 30,
+      "ImageIndex": 1
+    },
+    "Preview2": {
+      "X": 21,
+      "Y": 30,
+      "ImageIndex": 1
+    },
+    "Preview3": {
+      "X": 21,
+      "Y": 30,
+      "ImageIndex": 1
+    }
+  },
+  "Time": {
+    "Hours": {
+      "Tens": {
+        "X": 0,
+        "Y": 118,
+        "ImageIndex": 2,
+        "ImagesCount": 10
+      },
+      "Ones": {
+        "X": 63,
+        "Y": 118,
+        "ImageIndex": 2,
+        "ImagesCount": 10
+      }
+    },
+    "Minutes": {
+      "Tens": {
+        "X": 0,
+        "Y": 224,
+        "ImageIndex": 2,
+        "ImagesCount": 10
+      },
+      "Ones": {
+        "X": 63,
+        "Y": 224,
+        "ImageIndex": 2,
+        "ImagesCount": 10
+      }
+    },
+    "UnknownV11": 0
+  },
+  "Activity": {
+    "Steps": {
+      "Number": {
+        "TopLeftX": 0,
+        "TopLeftY": 422,
+        "BottomRightX": 152,
+        "BottomRightY": 440,
+        "Alignment": "TopCenter",
+        "SpacingX": 0,
+        "SpacingY": 0,
+        "ImageIndex": 22,
+        "ImagesCount": 10
+      }
+    },
+    "Pulse": {
+      "Number": {
+        "TopLeftX": 0,
+        "TopLeftY": 70,
+        "BottomRightX": 152,
+        "BottomRightY": 88,
+        "Alignment": "TopCenter",
+        "SpacingX": 0,
+        "SpacingY": 0,
+        "ImageIndex": 22,
+        "ImagesCount": 10
+      },
+      "NoDataImageIndex": 22
+    },
+    "UnknownV7": 0
+  },
+  "Date": {
+    "MonthAndDayAndYear": {
+      "OneLine": {
+        "Number": {
+          "TopLeftX": 16,
+          "TopLeftY": 339,
+          "BottomRightX": 82,
+          "BottomRightY": 356,
+          "Alignment": "TopLeft",
+          "SpacingX": 0,
+          "SpacingY": 0,
+          "ImageIndex": 12,
+          "ImagesCount": 10
+        },
+        "DelimiterImageIndex": 55
+      },
+      "TwoDigitsMonth": true,
+      "TwoDigitsDay": true
+    },
+    "ENWeekDays": {
+      "X": 91,
+      "Y": 339,
+      "ImageIndex": 48,
+      "ImagesCount": 7
+    },
+    "CNWeekDays": {
+      "X": 91,
+      "Y": 339,
+      "ImageIndex": 48,
+      "ImagesCount": 7
+    },
+    "CN2WeekDays": {
+      "X": 91,
+      "Y": 339,
+      "ImageIndex": 48,
+      "ImagesCount": 7
+    }
+  },
+  "StepsProgress": {
+    "LineScale": {
+      "X": 13,
+      "Y": 416,
+      "ImageIndex": 38,
+      "ImagesCount": 10
+    }
+  },
+  "HeartProgress": {
+    "LineScale": {
+      "X": 12,
+      "Y": 10,
+      "ImageIndex": 32,
+      "ImagesCount": 6
+    }
+  }
+}

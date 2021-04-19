@@ -1,0 +1,298 @@
+{
+  "Background": {
+    "Image": {
+      "X": 0,
+      "Y": 0,
+      "ImageIndex": 0
+    },
+    "Preview1": {
+      "X": 21,
+      "Y": 30,
+      "ImageIndex": 2
+    },
+    "Preview2": {
+      "X": 21,
+      "Y": 30,
+      "ImageIndex": 3
+    },
+    "Preview3": {
+      "X": 21,
+      "Y": 30,
+      "ImageIndex": 1
+    }
+  },
+  "Time": {
+    "Hours": {
+      "Tens": {
+        "X": 6,
+        "Y": 200,
+        "ImageIndex": 4,
+        "ImagesCount": 10
+      },
+      "Ones": {
+        "X": 37,
+        "Y": 217,
+        "ImageIndex": 4,
+        "ImagesCount": 10
+      }
+    },
+    "Minutes": {
+      "Tens": {
+        "X": 90,
+        "Y": 217,
+        "ImageIndex": 14,
+        "ImagesCount": 10
+      },
+      "Ones": {
+        "X": 120,
+        "Y": 200,
+        "ImageIndex": 14,
+        "ImagesCount": 10
+      }
+    },
+    "UnknownV11": 0
+  },
+  "Activity": {
+    "Steps": {
+      "Number": {
+        "TopLeftX": 88,
+        "TopLeftY": 336,
+        "BottomRightX": 140,
+        "BottomRightY": 374,
+        "Alignment": "BottomLeft",
+        "SpacingX": 3,
+        "SpacingY": -5,
+        "ImageIndex": 83,
+        "ImagesCount": 10
+      }
+    },
+    "Calories": {
+      "Text": {
+        "TopLeftX": 21,
+        "TopLeftY": 341,
+        "BottomRightX": 62,
+        "BottomRightY": 374,
+        "Alignment": "TopLeft",
+        "SpacingX": 3,
+        "SpacingY": 5,
+        "ImageIndex": 48,
+        "ImagesCount": 10
+      }
+    },
+    "Pulse": {
+      "Number": {
+        "TopLeftX": 33,
+        "TopLeftY": 430,
+        "BottomRightX": 61,
+        "BottomRightY": 458,
+        "Alignment": "TopRight",
+        "SpacingX": 2,
+        "SpacingY": -5,
+        "ImageIndex": 48,
+        "ImagesCount": 10
+      },
+      "NoDataImageIndex": 93
+    },
+    "PAI": {
+      "Number": {
+        "TopLeftX": 89,
+        "TopLeftY": 429,
+        "BottomRightX": 117,
+        "BottomRightY": 457,
+        "Alignment": "TopLeft",
+        "SpacingX": 2,
+        "SpacingY": -5,
+        "ImageIndex": 83,
+        "ImagesCount": 10
+      }
+    },
+    "UnknownV7": 0
+  },
+  "Date": {
+    "MonthAndDayAndYear": {
+      "Separate": {
+        "MonthsEN": {
+          "X": 31,
+          "Y": 141,
+          "ImageIndex": 24,
+          "ImagesCount": 12
+        },
+        "MonthsCN": {
+          "X": 31,
+          "Y": 141,
+          "ImageIndex": 36,
+          "ImagesCount": 12
+        },
+        "Day": {
+          "TopLeftX": 40,
+          "TopLeftY": 170,
+          "BottomRightX": 57,
+          "BottomRightY": 192,
+          "Alignment": "TopLeft",
+          "SpacingX": 1,
+          "SpacingY": 4,
+          "ImageIndex": 48,
+          "ImagesCount": 10
+        }
+      },
+      "TwoDigitsMonth": true,
+      "TwoDigitsDay": true
+    },
+    "DayAmPm": {
+      "X": 39,
+      "Y": 284,
+      "ImageIndexAMCN": 79,
+      "ImageIndexPMCN": 80,
+      "ImageIndexAMEN": 81,
+      "ImageIndexPMEN": 82
+    },
+    "ENWeekDays": {
+      "X": 31,
+      "Y": 115,
+      "ImageIndex": 58,
+      "ImagesCount": 7
+    },
+    "CNWeekDays": {
+      "X": 31,
+      "Y": 115,
+      "ImageIndex": 72,
+      "ImagesCount": 7
+    },
+    "CN2WeekDays": {
+      "X": 31,
+      "Y": 115,
+      "ImageIndex": 65,
+      "ImagesCount": 7
+    }
+  },
+  "Weather": {
+    "Icon": {
+      "CustomIcon": {
+        "X": 31,
+        "Y": 64,
+        "ImageIndex": 94,
+        "ImagesCount": 26
+      },
+      "Unknown3": {
+        "X": 31,
+        "Y": 64
+      },
+      "Unknown4": {
+        "X": 31,
+        "Y": 64
+      }
+    },
+    "Temperature": {
+      "Today": {
+        "Separate": {
+          "Day": {
+            "Number": {
+              "TopLeftX": 86,
+              "TopLeftY": 61,
+              "BottomRightX": 125,
+              "BottomRightY": 66,
+              "Alignment": "TopRight",
+              "SpacingX": 1,
+              "SpacingY": 5,
+              "ImageIndex": 120,
+              "ImagesCount": 10
+            },
+            "MinusImageIndex": 130,
+            "DegreesImageIndex": 131
+          },
+          "Night": {
+            "Number": {
+              "TopLeftX": 86,
+              "TopLeftY": 80,
+              "BottomRightX": 125,
+              "BottomRightY": 95,
+              "Alignment": "TopRight",
+              "SpacingX": 1,
+              "SpacingY": 5,
+              "ImageIndex": 120,
+              "ImagesCount": 10
+            },
+            "MinusImageIndex": 130,
+            "DegreesImageIndex": 131
+          }
+        }
+      }
+    }
+  },
+  "Status": {
+    "DoNotDisturb": {
+      "Coordinates": {
+        "X": 53,
+        "Y": 9
+      },
+      "ImageIndexOn": 133
+    },
+    "Lock": {
+      "Coordinates": {
+        "X": 70,
+        "Y": 9
+      },
+      "ImageIndexOff": 134
+    },
+    "Bluetooth": {
+      "Coordinates": {
+        "X": 87,
+        "Y": 9
+      },
+      "ImageIndexOff": 132
+    }
+  },
+  "Battery": {
+    "BatteryText": {
+      "Coordinates": {
+        "TopLeftX": 73,
+        "TopLeftY": 28,
+        "BottomRightX": 112,
+        "BottomRightY": 41,
+        "Alignment": "TopLeft",
+        "SpacingX": 1,
+        "SpacingY": 0,
+        "ImageIndex": 135,
+        "ImagesCount": 10
+      },
+      "SuffixImageIndex": 145
+    },
+    "BatteryIcon": {
+      "X": 50,
+      "Y": 29,
+      "ImageIndex": 146,
+      "ImagesCount": 10
+    }
+  },
+  "Alarm": {
+    "Text": {
+      "TopLeftX": 93,
+      "TopLeftY": 157,
+      "BottomRightX": 141,
+      "BottomRightY": 192,
+      "Alignment": "BottomLeft",
+      "SpacingX": 0,
+      "SpacingY": -5,
+      "ImageIndex": 156,
+      "ImagesCount": 10
+    },
+    "DelimiterImageIndex": 166,
+    "ImageOn": {
+      "X": 92,
+      "Y": 122,
+      "ImageIndex": 167
+    },
+    "ImageOff": {
+      "X": 92,
+      "Y": 122,
+      "ImageIndex": 168
+    },
+    "ImageNoAlarm": {
+      "X": 93,
+      "Y": 157,
+      "ImageIndex": 169
+    },
+    "UnknownTF6": 1,
+    "UnknownTF7": 1
+  }
+}

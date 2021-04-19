@@ -1,0 +1,934 @@
+Debug|Opening watch face 'E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2.bin'
+Debug|Reading parameters...
+Trace|Reading header...
+Trace|Header was read:
+Trace|Signature: UIHH, Unknown: 16777215, ParametersSize: 54, IsValid: True
+Trace|Reading parameter offsets...
+Trace|Parameter offsets were read from file
+Trace|Reading parameters descriptor...
+Trace|1 (0A): 5 bytes
+Trace|    1 (08): 340 (154)
+Trace|    2 (10): 66 (42)
+Trace|Parameters descriptor was read:
+Trace|ParametrsTableLength: 340, ImagesCount: 66
+Trace|Reading parameters locations...
+Trace|2 (12): 4 bytes
+Trace|    1 (08): 0 (00)
+Trace|    2 (10): 32 (20)
+Trace|3 (1A): 4 bytes
+Trace|    1 (08): 32 (20)
+Trace|    2 (10): 50 (32)
+Trace|4 (22): 5 bytes
+Trace|    1 (08): 218 (DA)
+Trace|    2 (10): 44 (2C)
+Trace|5 (2A): 5 bytes
+Trace|    1 (08): 82 (52)
+Trace|    2 (10): 136 (88)
+Trace|8 (42): 5 bytes
+Trace|    1 (08): 262 (106)
+Trace|    2 (10): 30 (1E)
+Trace|9 (4A): 5 bytes
+Trace|    1 (08): 330 (14A)
+Trace|    2 (10): 10 (0A)
+Trace|11 (5A): 5 bytes
+Trace|    1 (08): 292 (124)
+Trace|    2 (10): 38 (26)
+Trace|Watch face parameters locations were read:
+Trace|Reading descriptor for parameter 2
+Trace|Descriptor offset: 0, Descriptor length: 32
+Trace|Parsing descriptor for parameter 2...
+Trace|1 (0A): 6 bytes
+Trace|    1 (08): 0 (00)
+Trace|    2 (10): 0 (00)
+Trace|    3 (18): 0 (00)
+Trace|3 (1A): 6 bytes
+Trace|    1 (08): 21 (15)
+Trace|    2 (10): 30 (1E)
+Trace|    3 (18): 1 (01)
+Trace|4 (22): 6 bytes
+Trace|    1 (08): 21 (15)
+Trace|    2 (10): 30 (1E)
+Trace|    3 (18): 1 (01)
+Trace|5 (2A): 6 bytes
+Trace|    1 (08): 21 (15)
+Trace|    2 (10): 30 (1E)
+Trace|    3 (18): 1 (01)
+Trace|Reading descriptor for parameter 3
+Trace|Descriptor offset: 32, Descriptor length: 50
+Trace|Parsing descriptor for parameter 3...
+Trace|1 (0A): 22 bytes
+Trace|    1 (0A): 9 bytes
+Trace|        1 (08): 26 (1A)
+Trace|        2 (10): 354 (162)
+Trace|        3 (18): 2 (02)
+Trace|        4 (20): 10 (0A)
+Trace|    2 (12): 9 bytes
+Trace|        1 (08): 48 (30)
+Trace|        2 (10): 347 (15B)
+Trace|        3 (18): 2 (02)
+Trace|        4 (20): 10 (0A)
+Trace|2 (12): 22 bytes
+Trace|    1 (0A): 9 bytes
+Trace|        1 (08): 87 (57)
+Trace|        2 (10): 335 (14F)
+Trace|        3 (18): 2 (02)
+Trace|        4 (20): 10 (0A)
+Trace|    2 (12): 9 bytes
+Trace|        1 (08): 108 (6C)
+Trace|        2 (10): 328 (148)
+Trace|        3 (18): 2 (02)
+Trace|        4 (20): 10 (0A)
+Trace|11 (58): 0 (00)
+Trace|Reading descriptor for parameter 4
+Trace|Descriptor offset: 218, Descriptor length: 44
+Trace|Parsing descriptor for parameter 4...
+Trace|1 (0A): 40 bytes
+Trace|    1 (0A): 38 bytes
+Trace|        1 (08): 37 (25)
+Trace|        2 (10): 306 (132)
+Trace|        3 (18): 90 (5A)
+Trace|        4 (20): 335 (14F)
+Trace|        5 (28): 34 (22)
+Trace|        6 (30): -3 (FFFFFFFFFFFFFFFD)
+Trace|        7 (38): -3 (FFFFFFFFFFFFFFFD)
+Trace|        8 (40): 12 (0C)
+Trace|        9 (48): 10 (0A)
+Trace|7 (38): 0 (00)
+Trace|Reading descriptor for parameter 5
+Trace|Descriptor offset: 82, Descriptor length: 136
+Trace|Parsing descriptor for parameter 5...
+Trace|1 (0A): 86 bytes
+Trace|    1 (0A): 80 bytes
+Trace|        1 (0A): 38 bytes
+Trace|            1 (08): 70 (46)
+Trace|            2 (10): 413 (19D)
+Trace|            3 (18): 93 (5D)
+Trace|            4 (20): 433 (1B1)
+Trace|            5 (28): 34 (22)
+Trace|            6 (30): -3 (FFFFFFFFFFFFFFFD)
+Trace|            7 (38): -3 (FFFFFFFFFFFFFFFD)
+Trace|            8 (40): 12 (0C)
+Trace|            9 (48): 10 (0A)
+Trace|        4 (22): 38 bytes
+Trace|            1 (08): 99 (63)
+Trace|            2 (10): 404 (194)
+Trace|            3 (18): 122 (7A)
+Trace|            4 (20): 424 (1A8)
+Trace|            5 (28): 34 (22)
+Trace|            6 (30): -3 (FFFFFFFFFFFFFFFD)
+Trace|            7 (38): -3 (FFFFFFFFFFFFFFFD)
+Trace|            8 (40): 12 (0C)
+Trace|            9 (48): 10 (0A)
+Trace|    4 (20): 1 (01)
+Trace|    5 (28): 1 (01)
+Trace|2 (12): 13 bytes
+Trace|    1 (08): 3 (03)
+Trace|    2 (10): 365 (16D)
+Trace|    3 (18): 29 (1D)
+Trace|    4 (20): 30 (1E)
+Trace|    5 (28): 29 (1D)
+Trace|    6 (30): 30 (1E)
+Trace|4 (22): 9 bytes
+Trace|    1 (08): 14 (0E)
+Trace|    2 (10): 424 (1A8)
+Trace|    3 (18): 22 (16)
+Trace|    4 (20): 7 (07)
+Trace|5 (2A): 9 bytes
+Trace|    1 (08): 14 (0E)
+Trace|    2 (10): 424 (1A8)
+Trace|    3 (18): 22 (16)
+Trace|    4 (20): 7 (07)
+Trace|6 (32): 9 bytes
+Trace|    1 (08): 14 (0E)
+Trace|    2 (10): 424 (1A8)
+Trace|    3 (18): 22 (16)
+Trace|    4 (20): 7 (07)
+Trace|Reading descriptor for parameter 8
+Trace|Descriptor offset: 262, Descriptor length: 30
+Trace|Parsing descriptor for parameter 8...
+Trace|1 (0A): 8 bytes
+Trace|    1 (0A): 4 bytes
+Trace|        1 (08): 2 (02)
+Trace|        2 (10): 70 (46)
+Trace|    2 (10): 32 (20)
+Trace|2 (12): 8 bytes
+Trace|    1 (0A): 4 bytes
+Trace|        1 (08): 26 (1A)
+Trace|        2 (10): 63 (3F)
+Trace|    3 (18): 33 (21)
+Trace|3 (1A): 8 bytes
+Trace|    1 (0A): 4 bytes
+Trace|        1 (08): 48 (30)
+Trace|        2 (10): 56 (38)
+Trace|    3 (18): 31 (1F)
+Trace|Reading descriptor for parameter 9
+Trace|Descriptor offset: 330, Descriptor length: 10
+Trace|Parsing descriptor for parameter 9...
+Trace|2 (12): 8 bytes
+Trace|    1 (08): 68 (44)
+Trace|    2 (10): 28 (1C)
+Trace|    3 (18): 56 (38)
+Trace|    4 (20): 10 (0A)
+Trace|Reading descriptor for parameter 11
+Trace|Descriptor offset: 292, Descriptor length: 38
+Trace|Parsing descriptor for parameter 11...
+Trace|1 (0A): 16 bytes
+Trace|    1 (0A): 8 bytes
+Trace|        1 (08): 0 (00)
+Trace|        2 (10): 55 (37)
+Trace|        3 (18): 34 (22)
+Trace|        4 (20): 10 (0A)
+Trace|    2 (10): 120 (78)
+Trace|    3 (18): 1 (01)
+Trace|    4 (20): 0 (00)
+Trace|1 (0A): 18 bytes
+Trace|    1 (0A): 9 bytes
+Trace|        1 (08): 90 (5A)
+Trace|        2 (10): 283 (11B)
+Trace|        3 (18): 44 (2C)
+Trace|        4 (20): 12 (0C)
+Trace|    2 (10): 120 (78)
+Trace|    3 (18): 255 (FF)
+Trace|    4 (20): 0 (00)
+Trace|Reading resources offsets table with 66 elements (264 bytes)
+Debug|Reading 66 resources...
+Trace|Resource 0 offset: 745, length: 147760...
+Debug|Reading resource 0...
+Trace|Color bit encoding: 9
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 152, Height: 486, RowLength: 304
+Trace|BPP: 16, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 1 offset: 148505, length: 77456...
+Debug|Reading resource 1...
+Trace|Color bit encoding: 9
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 110, Height: 352, RowLength: 220
+Trace|BPP: 16, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 2 offset: 225961, length: 3418...
+Debug|Reading resource 2...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 27, Height: 42, RowLength: 81
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 3 offset: 229379, length: 3418...
+Debug|Reading resource 3...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 27, Height: 42, RowLength: 81
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 4 offset: 232797, length: 3418...
+Debug|Reading resource 4...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 27, Height: 42, RowLength: 81
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 5 offset: 236215, length: 3418...
+Debug|Reading resource 5...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 27, Height: 42, RowLength: 81
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 6 offset: 239633, length: 3418...
+Debug|Reading resource 6...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 27, Height: 42, RowLength: 81
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 7 offset: 243051, length: 3418...
+Debug|Reading resource 7...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 27, Height: 42, RowLength: 81
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 8 offset: 246469, length: 3418...
+Debug|Reading resource 8...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 27, Height: 42, RowLength: 81
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 9 offset: 249887, length: 3418...
+Debug|Reading resource 9...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 27, Height: 42, RowLength: 81
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 10 offset: 253305, length: 3418...
+Debug|Reading resource 10...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 27, Height: 42, RowLength: 81
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 11 offset: 256723, length: 3418...
+Debug|Reading resource 11...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 27, Height: 42, RowLength: 81
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 12 offset: 260141, length: 679...
+Debug|Reading resource 12...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 13, Height: 17, RowLength: 39
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 13 offset: 260820, length: 679...
+Debug|Reading resource 13...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 13, Height: 17, RowLength: 39
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 14 offset: 261499, length: 679...
+Debug|Reading resource 14...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 13, Height: 17, RowLength: 39
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 15 offset: 262178, length: 679...
+Debug|Reading resource 15...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 13, Height: 17, RowLength: 39
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 16 offset: 262857, length: 679...
+Debug|Reading resource 16...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 13, Height: 17, RowLength: 39
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 17 offset: 263536, length: 679...
+Debug|Reading resource 17...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 13, Height: 17, RowLength: 39
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 18 offset: 264215, length: 679...
+Debug|Reading resource 18...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 13, Height: 17, RowLength: 39
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 19 offset: 264894, length: 679...
+Debug|Reading resource 19...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 13, Height: 17, RowLength: 39
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 20 offset: 265573, length: 679...
+Debug|Reading resource 20...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 13, Height: 17, RowLength: 39
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 21 offset: 266252, length: 679...
+Debug|Reading resource 21...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 13, Height: 17, RowLength: 39
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 22 offset: 266931, length: 3292...
+Debug|Reading resource 22...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 26, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 23 offset: 270223, length: 3292...
+Debug|Reading resource 23...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 26, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 24 offset: 273515, length: 3292...
+Debug|Reading resource 24...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 26, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 25 offset: 276807, length: 3292...
+Debug|Reading resource 25...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 26, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 26 offset: 280099, length: 3292...
+Debug|Reading resource 26...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 26, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 27 offset: 283391, length: 3292...
+Debug|Reading resource 27...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 26, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 28 offset: 286683, length: 3292...
+Debug|Reading resource 28...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 42, Height: 26, RowLength: 126
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 29 offset: 289975, length: 2569...
+Debug|Reading resource 29...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 23, Height: 37, RowLength: 69
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 30 offset: 292544, length: 2569...
+Debug|Reading resource 30...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 23, Height: 37, RowLength: 69
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 31 offset: 295113, length: 656...
+Debug|Reading resource 31...
+Trace|Color bit encoding: 9
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 16, Height: 20, RowLength: 32
+Trace|BPP: 16, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 32 offset: 295769, length: 816...
+Debug|Reading resource 32...
+Trace|Color bit encoding: 9
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 20, Height: 20, RowLength: 40
+Trace|BPP: 16, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 33 offset: 296585, length: 816...
+Debug|Reading resource 33...
+Trace|Color bit encoding: 9
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 20, Height: 20, RowLength: 40
+Trace|BPP: 16, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 34 offset: 297401, length: 52456...
+Debug|Reading resource 34...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 152, Height: 115, RowLength: 456
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 35 offset: 349857, length: 52456...
+Debug|Reading resource 35...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 152, Height: 115, RowLength: 456
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 36 offset: 402313, length: 52456...
+Debug|Reading resource 36...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 152, Height: 115, RowLength: 456
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 37 offset: 454769, length: 52456...
+Debug|Reading resource 37...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 152, Height: 115, RowLength: 456
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 38 offset: 507225, length: 52456...
+Debug|Reading resource 38...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 152, Height: 115, RowLength: 456
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 39 offset: 559681, length: 52456...
+Debug|Reading resource 39...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 152, Height: 115, RowLength: 456
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 40 offset: 612137, length: 52456...
+Debug|Reading resource 40...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 152, Height: 115, RowLength: 456
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 41 offset: 664593, length: 52456...
+Debug|Reading resource 41...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 152, Height: 115, RowLength: 456
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 42 offset: 717049, length: 52456...
+Debug|Reading resource 42...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 152, Height: 115, RowLength: 456
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 43 offset: 769505, length: 52456...
+Debug|Reading resource 43...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 152, Height: 115, RowLength: 456
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 44 offset: 821961, length: 6787...
+Debug|Reading resource 44...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 61, Height: 37, RowLength: 183
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 45 offset: 828748, length: 6787...
+Debug|Reading resource 45...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 61, Height: 37, RowLength: 183
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 46 offset: 835535, length: 6787...
+Debug|Reading resource 46...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 61, Height: 37, RowLength: 183
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 47 offset: 842322, length: 6787...
+Debug|Reading resource 47...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 61, Height: 37, RowLength: 183
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 48 offset: 849109, length: 6787...
+Debug|Reading resource 48...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 61, Height: 37, RowLength: 183
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 49 offset: 855896, length: 6787...
+Debug|Reading resource 49...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 61, Height: 37, RowLength: 183
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 50 offset: 862683, length: 6787...
+Debug|Reading resource 50...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 61, Height: 37, RowLength: 183
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 51 offset: 869470, length: 6787...
+Debug|Reading resource 51...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 61, Height: 37, RowLength: 183
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 52 offset: 876257, length: 6787...
+Debug|Reading resource 52...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 61, Height: 37, RowLength: 183
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 53 offset: 883044, length: 6787...
+Debug|Reading resource 53...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 61, Height: 37, RowLength: 183
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 54 offset: 889831, length: 6787...
+Debug|Reading resource 54...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 61, Height: 37, RowLength: 183
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 55 offset: 896618, length: 6787...
+Debug|Reading resource 55...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 61, Height: 37, RowLength: 183
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 56 offset: 903405, length: 10780...
+Debug|Reading resource 56...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 78, Height: 46, RowLength: 234
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 57 offset: 914185, length: 10780...
+Debug|Reading resource 57...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 78, Height: 46, RowLength: 234
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 58 offset: 924965, length: 10780...
+Debug|Reading resource 58...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 78, Height: 46, RowLength: 234
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 59 offset: 935745, length: 10780...
+Debug|Reading resource 59...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 78, Height: 46, RowLength: 234
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 60 offset: 946525, length: 10780...
+Debug|Reading resource 60...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 78, Height: 46, RowLength: 234
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 61 offset: 957305, length: 10780...
+Debug|Reading resource 61...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 78, Height: 46, RowLength: 234
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 62 offset: 968085, length: 10780...
+Debug|Reading resource 62...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 78, Height: 46, RowLength: 234
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 63 offset: 978865, length: 10780...
+Debug|Reading resource 63...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 78, Height: 46, RowLength: 234
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 64 offset: 989645, length: 10780...
+Debug|Reading resource 64...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 78, Height: 46, RowLength: 234
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Trace|Resource 65 offset: 1000425, length: 10780...
+Debug|Reading resource 65...
+Trace|Color bit encoding: 27
+Trace|Reading image header...
+Trace|Image header was read:
+Trace|Width: 78, Height: 46, RowLength: 234
+Trace|BPP: 24, PaletteColors: 0, Transaparency: False
+Trace|The image doesn't use a palette.
+Debug|Parsing parameters...
+Trace|2 'Background'
+Trace|2.1 'Image'
+Trace|2.1.1 'X': 0
+Trace|2.1.2 'Y': 0
+Trace|2.1.3 'ImageIndex': 0
+Trace|2.3 'Preview1'
+Trace|2.3.1 'X': 21
+Trace|2.3.2 'Y': 30
+Trace|2.3.3 'ImageIndex': 1
+Trace|2.4 'Preview2'
+Trace|2.4.1 'X': 21
+Trace|2.4.2 'Y': 30
+Trace|2.4.3 'ImageIndex': 1
+Trace|2.5 'Preview3'
+Trace|2.5.1 'X': 21
+Trace|2.5.2 'Y': 30
+Trace|2.5.3 'ImageIndex': 1
+Trace|3 'Time'
+Trace|3.1 'Hours'
+Trace|3.1.1 'Tens'
+Trace|3.1.1.1 'X': 26
+Trace|3.1.1.2 'Y': 354
+Trace|3.1.1.3 'ImageIndex': 2
+Trace|3.1.1.4 'ImagesCount': 10
+Trace|3.1.2 'Ones'
+Trace|3.1.2.1 'X': 48
+Trace|3.1.2.2 'Y': 347
+Trace|3.1.2.3 'ImageIndex': 2
+Trace|3.1.2.4 'ImagesCount': 10
+Trace|3.2 'Minutes'
+Trace|3.2.1 'Tens'
+Trace|3.2.1.1 'X': 87
+Trace|3.2.1.2 'Y': 335
+Trace|3.2.1.3 'ImageIndex': 2
+Trace|3.2.1.4 'ImagesCount': 10
+Trace|3.2.2 'Ones'
+Trace|3.2.2.1 'X': 108
+Trace|3.2.2.2 'Y': 328
+Trace|3.2.2.3 'ImageIndex': 2
+Trace|3.2.2.4 'ImagesCount': 10
+Trace|3.11 'UnknownV11': 0
+Trace|4 'Activity'
+Trace|4.1 'Steps'
+Trace|4.1.1 'Number'
+Trace|4.1.1.1 'TopLeftX': 37
+Trace|4.1.1.2 'TopLeftY': 306
+Trace|4.1.1.3 'BottomRightX': 90
+Trace|4.1.1.4 'BottomRightY': 335
+Trace|4.1.1.5 'Alignment': 34
+Trace|4.1.1.6 'SpacingX': -3
+Trace|4.1.1.7 'SpacingY': -3
+Trace|4.1.1.8 'ImageIndex': 12
+Trace|4.1.1.9 'ImagesCount': 10
+Trace|4.7 'UnknownV7': 0
+Trace|5 'Date'
+Trace|5.1 'MonthAndDayAndYear'
+Trace|5.1.1 'Separate'
+Trace|5.1.1.1 'Month'
+Trace|5.1.1.1.1 'TopLeftX': 70
+Trace|5.1.1.1.2 'TopLeftY': 413
+Trace|5.1.1.1.3 'BottomRightX': 93
+Trace|5.1.1.1.4 'BottomRightY': 433
+Trace|5.1.1.1.5 'Alignment': 34
+Trace|5.1.1.1.6 'SpacingX': -3
+Trace|5.1.1.1.7 'SpacingY': -3
+Trace|5.1.1.1.8 'ImageIndex': 12
+Trace|5.1.1.1.9 'ImagesCount': 10
+Trace|5.1.1.4 'Day'
+Trace|5.1.1.4.1 'TopLeftX': 99
+Trace|5.1.1.4.2 'TopLeftY': 404
+Trace|5.1.1.4.3 'BottomRightX': 122
+Trace|5.1.1.4.4 'BottomRightY': 424
+Trace|5.1.1.4.5 'Alignment': 34
+Trace|5.1.1.4.6 'SpacingX': -3
+Trace|5.1.1.4.7 'SpacingY': -3
+Trace|5.1.1.4.8 'ImageIndex': 12
+Trace|5.1.1.4.9 'ImagesCount': 10
+Trace|5.1.4 'TwoDigitsMonth': 1
+Trace|5.1.5 'TwoDigitsDay': 1
+Trace|5.2 'DayAmPm'
+Trace|5.2.1 'X': 3
+Trace|5.2.2 'Y': 365
+Trace|5.2.3 'ImageIndexAMCN': 29
+Trace|5.2.4 'ImageIndexPMCN': 30
+Trace|5.2.5 'ImageIndexAMEN': 29
+Trace|5.2.6 'ImageIndexPMEN': 30
+Trace|5.4 'ENWeekDays'
+Trace|5.4.1 'X': 14
+Trace|5.4.2 'Y': 424
+Trace|5.4.3 'ImageIndex': 22
+Trace|5.4.4 'ImagesCount': 7
+Trace|5.5 'CNWeekDays'
+Trace|5.5.1 'X': 14
+Trace|5.5.2 'Y': 424
+Trace|5.5.3 'ImageIndex': 22
+Trace|5.5.4 'ImagesCount': 7
+Trace|5.6 'CN2WeekDays'
+Trace|5.6.1 'X': 14
+Trace|5.6.2 'Y': 424
+Trace|5.6.3 'ImageIndex': 22
+Trace|5.6.4 'ImagesCount': 7
+Trace|8 'Status'
+Trace|8.1 'DoNotDisturb'
+Trace|8.1.1 'Coordinates'
+Trace|8.1.1.1 'X': 2
+Trace|8.1.1.2 'Y': 70
+Trace|8.1.2 'ImageIndexOn': 32
+Trace|8.2 'Lock'
+Trace|8.2.1 'Coordinates'
+Trace|8.2.1.1 'X': 26
+Trace|8.2.1.2 'Y': 63
+Trace|8.2.3 'ImageIndexOff': 33
+Trace|8.3 'Bluetooth'
+Trace|8.3.1 'Coordinates'
+Trace|8.3.1.1 'X': 48
+Trace|8.3.1.2 'Y': 56
+Trace|8.3.3 'ImageIndexOff': 31
+Trace|9 'Battery'
+Trace|9.2 'BatteryIcon'
+Trace|9.2.1 'X': 68
+Trace|9.2.2 'Y': 28
+Trace|9.2.3 'ImageIndex': 56
+Trace|9.2.4 'ImagesCount': 10
+Trace|11 'Other'
+Trace|11.1 'Animation'
+Trace|11.1.1 'AnimationImages'
+Trace|11.1.1.1 'X': 0
+Trace|11.1.1.2 'Y': 55
+Trace|11.1.1.3 'ImageIndex': 34
+Trace|11.1.1.4 'ImagesCount': 10
+Trace|11.1.2 'Speed': 120
+Trace|11.1.3 'RepeatCount': 1
+Trace|11.1.4 'UnknownTF4': 0
+Trace|11.1 'Animation'
+Trace|11.1.1 'AnimationImages'
+Trace|11.1.1.1 'X': 90
+Trace|11.1.1.2 'Y': 283
+Trace|11.1.1.3 'ImageIndex': 44
+Trace|11.1.1.4 'ImagesCount': 12
+Trace|11.1.2 'Speed': 120
+Trace|11.1.3 'RepeatCount': 255
+Trace|11.1.4 'UnknownTF4': 0
+Debug|Generating previews...
+Debug|Exporting resources to 'E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2'
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0000.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0001.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0002.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0003.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0004.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0005.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0006.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0007.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0008.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0009.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0010.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0011.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0012.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0013.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0014.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0015.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0016.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0017.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0018.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0019.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0020.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0021.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0022.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0023.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0024.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0025.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0026.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0027.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0028.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0029.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0030.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0031.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0032.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0033.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0034.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0035.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0036.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0037.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0038.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0039.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0040.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0041.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0042.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0043.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0044.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0045.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0046.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0047.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0048.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0049.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0050.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0051.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0052.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0053.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0054.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0055.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0056.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0057.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0058.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0059.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0060.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0061.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0062.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0063.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0064.png...
+Debug|Extracting E:\Рабочий стол\Mi Band 5 WatchFace Editor\NEW WATCHFACE\wface_2\0065.png...
+Debug|Exporting config...
