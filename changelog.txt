@@ -1,8 +1,8 @@
-1.0.1.1 (2021-04-19)
+1.0.1.2 (2021-04-22)
 
 - Bug fixes
 
-- Add support MiBand 6(Without building a bin file yet)
+- Add full support MiBand 6(With building a bin file yet)
 
 - Add simple select images(Hold down the left mouse button to select, and to delete with shift)
 
