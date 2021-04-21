@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+</body>
+<script>
+  fetch("https://api.github.com/repos/Johnson070/MiBand-5-watchface-editor/releases").then(
+    function(response){
+      return response.json()
+    }).then(function(data){
+      var p = data.map(function(x){
+        if(typeof x.assets == 'undefined' || x.assets.length == 0){ return 0; }
+        return x.assets[0].download_count;
+      });
+      var sum = 0;
+      for(var i=0;i<p.length;i++){
+        sum += p[i];
+      }
+      document.querySelector('body').innerHTML = `Total downloads: ${sum}`;
+    });
+</script>
+</html>
