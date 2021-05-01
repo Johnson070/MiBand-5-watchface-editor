@@ -1,16 +1,14 @@
-1.0.1.3 (2021-04-24)
+1.0.1.4 (2021-05-01)
 
 - Bug fixes
 
-- Fix number form 
+- Bug fix date form
 
-- Fix add preview mi band 6
+- If there were no changes, the form closes immediately
 
 - Add full support MiBand 6(With building a bin file yet)
 
 - Add simple select images(Hold down the left mouse button to select, and to delete with shift)
-
-- Animation preview(use carefully, the program uses more than 100 MB of RAM)
 
 Thank you for downloading the program.
 
