@@ -1,7 +1,7 @@
 # MiBand 5 & 6 watchface editor
 
 ## [Download](https://github.com/Johnson070/MiBand-5-watchface-editor/releases/)
-## [](https://johnson070.github.io/MiBand-5-watchface-editor/)
+## ![total](https://johnson070.github.io/MiBand-5-watchface-editor/)
 
 - Please do not write that there is a virus in the program. There is no virus in the program, 3/67 [VirusTotal](https://www.virustotal.com/gui/file/2f3c8d0d678cd4a9f9bc0b4222c838b57595b5ef76795d428a02ff08cec115e1/detection)
 
