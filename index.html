@@ -1,10 +1,11 @@
 
 <html>
 <head>
+Permissions-Policy: interest-cohort=()
 <title>MiBand 5 & 6 watchface editor GUI</title>
 </head>
 <body>
-<h1><a href="" name="download_button">Download<h1>
+<h1><a onclick="download()" name="download_button">Download<h1>
 </body>
 <script>
   fetch("https://api.github.com/repos/Johnson070/MiBand-5-watchface-editor/releases").then(
@@ -46,5 +47,19 @@
             (new Date(data[i].published_at)).toString().substring(4,(new Date(data[i].published_at)).toString().indexOf("GMT"))}`;
       }
     });
+
+    function download(){
+        var p = data.map(function(x){
+       if(typeof x.assets == 'undefined' || x.assets.length == 0){ return 0; }
+        sumDownloads = 0;
+        for (var i=0; i < x.assets.length;i++) {
+            sumDownloads += x.assets[i].download_count;
+            if (document.getElementsByName("download_button")[0].href.indexOf("github") == -1) {
+                document.getElementsByName("download_button")[0].href = x.assets[i].browser_download_url;
+            }
+        }
+        return sumDownloads;
+      });
+    }
 </script>
 </html>
