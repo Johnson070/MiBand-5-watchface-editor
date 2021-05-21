@@ -2,6 +2,8 @@
 
 ## [Download](https://github.com/Johnson070/MiBand-5-watchface-editor/releases/)
 
+- Please do not write that there is a virus in the program. There is no virus in the program, 3/67 [VirusTotal](https://www.virustotal.com/gui/file/2f3c8d0d678cd4a9f9bc0b4222c838b57595b5ef76795d428a02ff08cec115e1/detection)
+
 ### [Reddit Thread](https://www.reddit.com/r/miband/comments/m1xooo/hello_i_created_watchface_gui_editor_for_mi_band_5/?sort=new)
 
 ### [4PDA](https://4pda.ru/forum/index.php?showtopic=1019687)
