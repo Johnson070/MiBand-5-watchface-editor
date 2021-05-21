@@ -4,6 +4,7 @@
 <title>MiBand 5 & 6 watchface editor GUI</title>
 </head>
 <body>
+<h1><a href="" name="download_button">Download<h1>
 </body>
 <script>
   fetch("https://api.github.com/repos/Johnson070/MiBand-5-watchface-editor/releases").then(
@@ -11,10 +12,14 @@
       return response.json()
     }).then(function(data){
       var p = data.map(function(x){
-        if(typeof x.assets == 'undefined' || x.assets.length == 0){ return 0; }
+       if(typeof x.assets == 'undefined' || x.assets.length == 0){ return 0; }
         sumDownloads = 0;
-        for (var i=0; i < x.assets.length;i++)
+        for (var i=0; i < x.assets.length;i++) {
             sumDownloads += x.assets[i].download_count;
+            if (document.getElementsByName("download_button")[0].href.indexOf("github") == -1) {
+                document.getElementsByName("download_button")[0].href = x.assets[i].browser_download_url;
+            }
+        }
         return sumDownloads;
       });
 
@@ -29,7 +34,7 @@
       }
       var newUpdate = p[0];
 
-      document.querySelector('body').innerHTML = `<h1>Total downloads: ${sum}</h1>`;
+      document.querySelector('body').innerHTML += `<h2>Total downloads: <font color="red">${sum}</font></h2>`;
         
       for (var i = 0; i < data.length;i++)
       {
@@ -37,7 +42,8 @@
         sumDownloads = 0;
         for (var j=0; j < data[i].assets.length;j++)
             sumDownloads += data[i].assets[j].download_count;
-        document.querySelector('body').innerHTML += `<h2>${b[i]} Downloads: <font color="red">${sumDownloads}</font></h2>`;
+        document.querySelector('body').innerHTML += `<h3>${b[i]} Downloads: <font color="red">${sumDownloads}</font></h3>${
+            (new Date(data[i].published_at)).toString().substring(4,(new Date(data[i].published_at)).toString().indexOf("GMT"))}`;
       }
     });
 </script>
