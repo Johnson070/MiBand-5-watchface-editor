@@ -1,6 +1,8 @@
-<!DOCTYPE html>
+
 <html>
-<head></head>
+<head>
+<title>MiBand 5 & 6 watchface editor GUI</title>
+</head>
 <body>
 </body>
 <script>
@@ -10,14 +12,33 @@
     }).then(function(data){
       var p = data.map(function(x){
         if(typeof x.assets == 'undefined' || x.assets.length == 0){ return 0; }
-        return x.assets[0].download_count;
+        sumDownloads = 0;
+        for (var i=0; i < x.assets.length;i++)
+            sumDownloads += x.assets[i].download_count;
+        return sumDownloads;
       });
+
+      var b = data.map(function(x){
+        if(typeof x.tag_name == 'undefined' || x.tag_name.length == 0){ return 0; }
+        return x.tag_name;
+      });
+
       var sum = 0;
       for(var i=0;i<p.length;i++){
         sum += p[i];
       }
-      var newUpdate = p[0] + p[1];
-      document.querySelector('body').innerHTML = `Total downloads: ${sum}<br>Total downloads last update: ${newUpdate}`;
+      var newUpdate = p[0];
+
+      document.querySelector('body').innerHTML = `<h1>Total downloads: ${sum}</h1>`;
+        
+      for (var i = 0; i < data.length;i++)
+      {
+        if(typeof data[i].assets == 'undefined' || data[i].assets.length == 0){ continue; }
+        sumDownloads = 0;
+        for (var j=0; j < data[i].assets.length;j++)
+            sumDownloads += data[i].assets[j].download_count;
+        document.querySelector('body').innerHTML += `<h2>${b[i]} Downloads: <font color="red">${sumDownloads}</font></h2>`;
+      }
     });
 </script>
 </html>
