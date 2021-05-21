@@ -12,6 +12,8 @@
 
 ### [Telegram chat](https://t.me/joinchat/v8PydY773eE5NGEy)
 
+#### [Stats](https://johnson070.github.io/MiBand-5-watchface-editor/)
+
 ### Culture file at this moment not support(fix in update, sorry)
 
 ![alt text](https://raw.githubusercontent.com/Johnson070/MiBand-5-watchface-editor/main/Preview.png)
