@@ -1,14 +1,10 @@
-1.0.1.5 (2021-05-21)
+1.0.1.6 (2021-05-24)
 
-- Bug fixes
+- Bug fix antivirus warning)
 
-- Bug fix save bin file
+- Bug fix bluetooth icon inverted
 
 - Start work for Simple chinese language
-
-- Add full support MiBand 6(With building a bin file yet)
-
-- Add simple select images(Hold down the left mouse button to select, and to delete with shift)
 
 Thank you for downloading the program.
 
