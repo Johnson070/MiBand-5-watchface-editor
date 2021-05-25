@@ -1,8 +1,8 @@
-1.0.1.6 (2021-05-24)
+1.0.1.7 (2021-05-26)
 
-- Bug fix antivirus warning)
+- Add see Global chinese and Simple chinese watchface
 
-- Bug fix bluetooth icon inverted
+- Bug fixes in date form
 
 - Start work for Simple chinese language
 
