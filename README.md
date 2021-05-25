@@ -2,7 +2,7 @@
 
 ## [Download](https://github.com/Johnson070/MiBand-5-watchface-editor/releases/)
 
-- Please do not write that there is a virus in the program. There is no virus in the program, 10/59 [VirusTotal](https://www.virustotal.com/gui/file/da5afb085d59ce346d2be04950343a17717825915ab40d54ddb858ceea963674/detection)
+- Please do not write that there is a virus in the program. There is no virus in the program, 5/64 [VirusTotal](https://www.virustotal.com/gui/file/ce62dadec9d84fbf4c59ae9bd6658c3eba723877a506ec955622286cb1ba80a1/detection)
 
 ### [Amazfit watchfaces](https://amazfitwatchfaces.com/forum/viewtopic.php?p=8477&sid=57662e65956952ea153e3432c2d7d5a5#p8477)
 
