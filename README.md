@@ -10,6 +10,8 @@
 
 ### [4PDA](https://4pda.ru/forum/index.php?showtopic=1019687)
 
+### [bandbbs.cn](https://www.bandbbs.cn/threads/3053/)
+
 ### [Telegram chat](https://t.me/joinchat/v8PydY773eE5NGEy)
 
 #### [Stats](https://johnson070.github.io/MiBand-5-watchface-editor/)
