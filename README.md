@@ -8,7 +8,7 @@
 
 ### [Reddit Thread](https://www.reddit.com/r/miband/comments/m1xooo/hello_i_created_watchface_gui_editor_for_mi_band_5/?sort=new)
 
-### [4PDA](https://4pda.ru/forum/index.php?showtopic=1019687)
+### [4PDA](https://4pda.to/forum/index.php?showtopic=1019687)
 
 ### [bandbbs.cn](https://www.bandbbs.cn/threads/3053/)
 
