@@ -12,9 +12,9 @@
 
 ### [Telegram chat](https://t.me/joinchat/v8PydY773eE5NGEy)
 
-#### [Stats](https://johnson070.github.io/MiBand-5-watchface-editor/)
+### [Stats](https://johnson070.github.io/MiBand-5-watchface-editor/)
 
-### [Source code](https://github.com/Johnson070/Mi-Band-5-watchface-editor)
+#### [Source code](https://github.com/Johnson070/Mi-Band-5-watchface-editor)
 
 ![alt text](https://raw.githubusercontent.com/Johnson070/MiBand-5-watchface-editor/main/Preview.png)
 
