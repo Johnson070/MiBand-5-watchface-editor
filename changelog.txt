@@ -1,10 +1,14 @@
-1.0.1.7 (2021-05-26)
+1.0.1.8 (2021-06-09)
 
-- Add see Global chinese and Simple chinese watchface
+- Fixed Circle Scale bug
 
-- Bug fixes in date form
+- Fixed alarm on/off add image
 
-- Start work for Simple chinese language
+- Fixed oneline date
+
+- Fixed bug number size 0
+
+- Fixed ImageSufficCN2 to ImageSuffixCN2 (lol)
 
 Thank you for downloading the program.
 
