@@ -1,5 +1,7 @@
 # MiBand 5 & 6 watchface editor
 
+#The project is temporarily unsupported, sorry
+
 ## [Download](https://github.com/Johnson070/MiBand-5-watchface-editor/releases/)
 
 ### [Amazfit watchfaces](https://amazfitwatchfaces.com/forum/viewtopic.php?p=8477&sid=57662e65956952ea153e3432c2d7d5a5#p8477)
